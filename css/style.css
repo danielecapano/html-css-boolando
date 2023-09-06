@@ -88,7 +88,7 @@ main [class^=col-] {
 
 /* CARD */
 
-.card {
+.card__image {
     position: relative;
 
 }
@@ -152,7 +152,7 @@ main [class^=col-] {
     gap: 0.25rem;
     position: absolute;
     left: 0;
-    bottom: 80px;
+    bottom: 50px;
 }
 
 .discount {
