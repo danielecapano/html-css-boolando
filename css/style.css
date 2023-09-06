@@ -168,3 +168,35 @@ main [class^=col-] {
 .discount.green {
     background-color: #008000;
 }
+
+/* FOOTER */
+
+.main-footer {
+    background-color: #1a1a1a;
+    color: #FFF;
+    padding: 2rem 1rem;
+}
+
+.society {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer-list {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.625rem;
+}
+
+.social-title {
+    font-size: 0.625rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.social-list {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
